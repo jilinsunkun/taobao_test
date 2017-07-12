@@ -824,7 +824,3 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`sid`, `tel`, `username`, `password`) VALUES
-(1, '18367826736', '求安追静啊', 'zhf826aad'),
-(2, '18367526273', '18367526273', '18367526273a'),
-(3, '18367526274', 'asdasd', 'asdasd1'),
-(5, '18367856736', 'dadadasd', 'zhf826aad');
